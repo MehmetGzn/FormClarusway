@@ -4,4 +4,4 @@
 
 # Page
 
- * https://mehmetgzn.github.io/Form_Clarusway/
+ * https://mehmetgzn.github.io/FormClarusway/
